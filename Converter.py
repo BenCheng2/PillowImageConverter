@@ -1,7 +1,7 @@
 import sys
 from PyQt5.QtWidgets import QApplication, QWidget, QPushButton
 
-from TraditionalImageConverter import TraditionalImageConverter
+from Converters.TraditionalImageConverter import TraditionalImageConverter
 
 
 class WelcomeScreen(QWidget):
